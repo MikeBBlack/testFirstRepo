@@ -1,4 +1,1 @@
-#Stuff
-* things
-* and
-* guff
+#This is a first test repo, following Ian Schoonover's Youtube tutorials
